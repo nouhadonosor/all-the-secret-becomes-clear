@@ -1,0 +1,14 @@
+login = 'admin'
+password = 'xxxxxxxx'
+login = 'root'
+password = 'qwerty123'
+
+login=admin
+password=xxxxxxxx
+login=root
+password=qwerty123
+
+login = admin
+password = xxxxxxxx
+login = root
+password = qwerty123
